@@ -1,0 +1,12 @@
+
+
+# Data
+data/*
+*.png
+*.jpeg
+
+# Python and Jupyter
+.ipynb_checkpoints/*
+.python-version
+
+
